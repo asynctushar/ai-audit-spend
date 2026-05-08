@@ -1,7 +1,7 @@
 # Landing Page Copy
 
 ## Hero Headline (Maximum 10 words)
-Stop Overpaying for AI Tools in Minutes
+Stop Overpaying for AI Tools
 
 ## Subheadline (Maximum 25 words)
 Analyze your AI subscription and instantly dicover where you're wasting money - with clear recommendations to cut costs.
