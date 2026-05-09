@@ -7,7 +7,7 @@
 
 ## Cursor
 
-**Individual:**
+**Individual:**  
 *Monthly:*
 - Hobby: $0/month — https://cursor.com/pricing — verified 2026-05-09
 - Pro: $20/month — https://cursor.com/pricing — verified 2026-05-09
@@ -20,7 +20,7 @@
 - Pro+: $48/month — https://cursor.com/pricing — verified 2026-05-09
 - Ultra: $160/month — https://cursor.com/pricing — verified 2026-05-09
 
-**Business:**
+**Business:**  
 *Monthly:*
 - Teams: $40/user/month — https://cursor.com/pricing — verified 2026-05-09
 - Enterprise: Custom — https://cursor.com/pricing — verified 2026-05-09
@@ -44,7 +44,7 @@
 ---
 
 ## Claude
-**Individual:**
+**Individual:**  
 *Monthly:*
 - Free: $0/month — https://claude.com/pricing — verified 2026-05-09
 - Pro: $20/month — https://claude.com/pricing — verified 2026-05-09
@@ -56,7 +56,7 @@
 - Max: $100/month — https://claude.com/pricing — verified 2026-05-09
 
 **Team & Enterprise:**
-**Team:**
+**Team:**  
 *Monthly:*
 - Starndard Seat: $25/user/month — https://claude.com/pricing — verified 2026-05-09
 - Premium Seat: $125/user/month — https://claude.com/pricing — verified 2026-05-09
@@ -114,7 +114,7 @@
 ---
 
 ## OpenAI API direct 
-**gpt-5.5:** 
+**gpt-5.5:**  
 *Short Context:*
 - Input: $5/MTok — https://developers.openai.com/api/docs/pricing — verified 2026-05-09
 - Cached Input: $0.50/MTok — https://developers.openai.com/api/docs/pricing — verified 2026-05-09
@@ -126,7 +126,7 @@
 - Output: $45/MTok — https://developers.openai.com/api/docs/pricing — verified 2026-05-09
 
 
-**gpt-5.5-pro:** 
+**gpt-5.5-pro:**  
 *Short Context:*
 - Input: $30/MTok — https://developers.openai.com/api/docs/pricing — verified 2026-05-09
 - Output: $180/MTok — https://developers.openai.com/api/docs/pricing — verified 2026-05-09
@@ -136,7 +136,7 @@
 - Output: $270/MTok — https://developers.openai.com/api/docs/pricing — verified 2026-05-09
 
 
-**gpt-5.4:** 
+**gpt-5.4:**  
 *Short Context:*
 - Input: $2.50/MTok — https://developers.openai.com/api/docs/pricing — verified 2026-05-09
 - Cached Input: $0.25/MTok — https://developers.openai.com/api/docs/pricing — verified 2026-05-09
@@ -148,7 +148,7 @@
 - Output: $22.5/MTok — https://developers.openai.com/api/docs/pricing — verified 2026-05-09
 
 
-**gpt-5.4-mini:** 
+**gpt-5.4-mini:**  
 *Short Context:*
 - Input: $0.75/MTok — https://developers.openai.com/api/docs/pricing — verified 2026-05-09
 - Cached Input: $0.075/MTok — https://developers.openai.com/api/docs/pricing — verified 2026-05-09
@@ -162,7 +162,7 @@
 - Output: $1.25/MTok — https://developers.openai.com/api/docs/pricing — verified 2026-05-09
 
 
-**gpt-5.4-pro:** 
+**gpt-5.4-pro:**  
 *Short Context:*
 - Input: $30/MTok — https://developers.openai.com/api/docs/pricing — verified 2026-05-09
 - Output: $180/MTok — https://developers.openai.com/api/docs/pricing — verified 2026-05-09
