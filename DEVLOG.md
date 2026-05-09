@@ -50,3 +50,28 @@
 - Set up React Hook Form + Zod for validation
 - Implement localStorage persistence for form state
 - Start structuring audit input data model
+
+## Day 3 - 2026-05-09
+
+**Hours worked:** 3
+
+**What I did:**
+- Collected pricing data from reference website and written markdown
+- Created data model of pricing details to use dynamically within form
+- Created basic validation schema using zod
+- Installed necessary npm packages
+
+**What I learnt:**
+- It is the best practice to collect required data and note everything before coding
+- Comprehensive audit form should be dynamically render from pricing data model
+- Form should always have validations
+
+**What I was stucked on:**
+- Data structure of pricing data model from pricing data markdown
+- Dynamically render form field from pricing data model
+
+**Plan for tomorrow:**
+- Design and implement dynamic audit form UI
+- Set up React Hook Form
+- Implement localStorage persistence for form state
+- Start structuring audit input data model

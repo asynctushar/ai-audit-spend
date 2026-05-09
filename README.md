@@ -9,4 +9,4 @@ A web app that analyze AI tool usage and indetifies cost-saving opportunities fo
  - Shadcn UI
 
  ## Status
- Work in progress - Day 1 setup complete
+ Work in progress - Day 3 
